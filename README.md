@@ -1,7 +1,9 @@
 # Clone of jioSaavn.com
+
 This project is a complete clone UI of the jioSaavn website with the functionalities of searching a Song/Album/Artists and playing a particular song. We used mock-server for user registraion and login and for searching a song and playing it we are using jioSaavn API. For the frontend we have used React.
 
 ## How to run the app?
+
 <ul>
   <li>Clone the repo into the local machine.</li>
   <ul>
@@ -20,6 +22,7 @@ This project is a complete clone UI of the jioSaavn website with the functionali
 </ul>
 
 ## Built with
+
 <ul>
   <li>React.</li>
   <li>JSON Mock Server.</li>
@@ -27,6 +30,7 @@ This project is a complete clone UI of the jioSaavn website with the functionali
 </ul>
 
 ## Libraries used
+
 <ul>
   <li>axios.</li>
   <li>firebase.</li>
@@ -36,7 +40,8 @@ This project is a complete clone UI of the jioSaavn website with the functionali
   <li>styled-components.</li>
 </ul>
 
-## Pages Created 
+## Pages Created
+
 <ul>
   <li>Home Page</li>
   <li>User Registration Page</li>
@@ -50,6 +55,7 @@ This project is a complete clone UI of the jioSaavn website with the functionali
 </ul>
 
 ## Functionalities Added
+
 <ul>
   <li>Registration of new user using the mock server.</li>
   <li>User validation while login using email id and password with the details used for registration.</li>
@@ -60,15 +66,8 @@ This project is a complete clone UI of the jioSaavn website with the functionali
   <li>Navigation to various pages using the sidebar that has routes enabled.</li>
 </ul>
 
-## Team Members 
-<ul>
-  <li><a href="https://github.com/Pulkit0111">Pulkit Tyagi</a></li>
-<li><a href="https://github.com/Sabareesh-Subramanian">Sabareesh Subramanian</a></li>
-<li><a href="https://github.com/Mrrupendra">Rupendra Singh</a></li>
-<li><a href="https://github.com/mahi98jat">Mahipal Singh Haritwal</a></li>
-</ul>
+## Related Links
 
-## Related Links 
 <ul>
   <li><a href="https://medium.com/@sabareeshsubramanian/building-a-clone-of-jiosaavn-com-using-html-css-and-react-js-f91933199a7">Blog - Building a clone of JioSaavn.com using HTML, CSS, and REACT.js</a></li>
   <li>For a visual walkthrough of the features, please visit this <a href="https://drive.google.com/file/d/1dVw7bWxbZByXDcYy47M3CoV_fHvtDhTW/view?usp=sharing">demo video</a>.</li>
@@ -92,7 +91,7 @@ This project is a complete clone UI of the jioSaavn website with the functionali
 
 ![Screenshot_20211003_190145](https://user-images.githubusercontent.com/83001524/135755816-4e21ba8f-95c0-4fa6-a4f1-a78299ef5171.png)
 
-## OTP Validation Page 
+## OTP Validation Page
 
 ![Screenshot_20211003_190429](https://user-images.githubusercontent.com/83001524/135755907-016865aa-29ab-4e47-8344-2fb369c47431.png)
 
